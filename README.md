@@ -22,7 +22,7 @@ PyPDF2: For reading and extracting text from PDF files.
 pyttsx3: An offline text-to-speech conversion library with support for multiple voice properties.
 gTTS: A Google Text-to-Speech library for generating high-quality speech (requires internet).
 Process Workflow:
-
+pygame: this library is used to play the extracted audio.
 Input: Accept an eBook file from the user.
 Processing:
 Extract text from the eBook.
